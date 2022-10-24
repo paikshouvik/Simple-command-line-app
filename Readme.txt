@@ -4,7 +4,7 @@ Type 'help' to know how to use this app.
 
 
 --------------------------
-If you have docker installed : 
+If docker is installed : 
 Open command prompt 
 git clone https://github.com/paikshouvik/Simple-command-line-app.git
 cd Simple-command-line-app
@@ -18,7 +18,7 @@ You can use the application : supported command are as follows
 
 ***************************OR************************ 
 
-If you don't have docker installed
+If docker is not installed
 ---------------------------
 Environment Requirements
 - Git must be installed
