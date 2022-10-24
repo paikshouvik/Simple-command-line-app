@@ -1,4 +1,3 @@
-# Simple-command-line-app
 -------------------
 This is a command line program that can fetch web pages and saves them to disk for later retrieval and browsing.
 Type 'help' to know how to use this app.
